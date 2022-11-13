@@ -407,9 +407,13 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 2000000}
     - target: {fileID: 2889171025566130534, guid: ada2587319194f542957a8c2ae277cb9, type: 3}
+      propertyPath: hitEffect
+      value: 
+      objectReference: {fileID: 11282680601594656, guid: e008d102fb5ae194ea815940483e9ed1, type: 3}
+    - target: {fileID: 2889171025566130534, guid: ada2587319194f542957a8c2ae277cb9, type: 3}
       propertyPath: muzzleFlash
       value: 
-      objectReference: {fileID: 7237578458837006347}
+      objectReference: {fileID: 9097132476354994440}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ada2587319194f542957a8c2ae277cb9, type: 3}
 --- !u!4 &317461030831763578 stripped
@@ -417,8 +421,8 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 2337074158996965286, guid: ada2587319194f542957a8c2ae277cb9, type: 3}
   m_PrefabInstance: {fileID: 2596656896509474780}
   m_PrefabAsset: {fileID: 0}
---- !u!198 &7237578458837006347 stripped
+--- !u!198 &9097132476354994440 stripped
 ParticleSystem:
-  m_CorrespondingSourceObject: {fileID: 4645505842915594199, guid: ada2587319194f542957a8c2ae277cb9, type: 3}
+  m_CorrespondingSourceObject: {fileID: 6500572749185734356, guid: ada2587319194f542957a8c2ae277cb9, type: 3}
   m_PrefabInstance: {fileID: 2596656896509474780}
   m_PrefabAsset: {fileID: 0}

@@ -13,10 +13,6 @@ public class Weapon : MonoBehaviour
 
     EnemyHealth target;
 
-    void Start() 
-    {
-    }
-
     void Update()
     {
         if (Input.GetButtonDown("Fire1"))

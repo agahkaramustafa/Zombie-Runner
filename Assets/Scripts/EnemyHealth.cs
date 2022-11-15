@@ -8,6 +8,7 @@ public class EnemyHealth : MonoBehaviour
 
     public void TakeDamage(int damage)
     {
+        BroadcastMessage("OnDamageTaken");
         enemyHealth -= damage;
 
         if (enemyHealth <= 0)

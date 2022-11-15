@@ -23,6 +23,7 @@ public class PlayerHealth : MonoBehaviour
         hitPoint -= damage;
         if (hitPoint <= 0)
         {
+            GetComponent<DeathHandler>().HandleDeath();
             Debug.Log("Player is PEPSI");
         }
     }

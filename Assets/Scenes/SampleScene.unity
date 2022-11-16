@@ -305,11 +305,6 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 400000, guid: 90d8e09703679534295bd2cacb73d6de, type: 3}
   m_PrefabInstance: {fileID: 1933846839}
   m_PrefabAsset: {fileID: 0}
---- !u!1 &468085454 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 2998295783546798722, guid: 1975b7cce8aa63d43b1e39c262072761, type: 3}
-  m_PrefabInstance: {fileID: 2998295783081994699}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1 &508246409
 GameObject:
   m_ObjectHideFlags: 0
@@ -855,21 +850,6 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 2998295783546838694, guid: 1975b7cce8aa63d43b1e39c262072761, type: 3}
   m_PrefabInstance: {fileID: 2998295783081994699}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &804992883
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 468085454}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 4835d37176febe145be1f622dfe3881d, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  fpsCamera: {fileID: 989102674}
-  zoomedOutFOV: 60
-  zoomedInFOV: 20
 --- !u!4 &812350795 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 400000, guid: 44884af1ac1d64d42902da40268ba120, type: 3}
@@ -938,11 +918,6 @@ Transform:
 Transform:
   m_CorrespondingSourceObject: {fileID: 400000, guid: 3681543e5b0f59742b73073cb379cdc6, type: 3}
   m_PrefabInstance: {fileID: 1234554194}
-  m_PrefabAsset: {fileID: 0}
---- !u!20 &989102674 stripped
-Camera:
-  m_CorrespondingSourceObject: {fileID: 2998295783545290916, guid: 1975b7cce8aa63d43b1e39c262072761, type: 3}
-  m_PrefabInstance: {fileID: 2998295783081994699}
   m_PrefabAsset: {fileID: 0}
 --- !u!4 &1008730438 stripped
 Transform:

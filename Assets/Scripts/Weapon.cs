@@ -17,6 +17,11 @@ public class Weapon : MonoBehaviour
 
     EnemyHealth target;
 
+    void OnEnable() 
+    {
+        canShoot = true;
+    }
+
     void Update()
     {
         if (Input.GetMouseButtonDown(0) && canShoot == true)

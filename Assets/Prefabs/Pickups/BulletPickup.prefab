@@ -126,7 +126,7 @@ GameObject:
   - component: {fileID: 2996568691862115598}
   - component: {fileID: 8776460923423848547}
   m_Layer: 0
-  m_Name: AmmoPickup
+  m_Name: BulletPickup
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

@@ -13,7 +13,14 @@ public class EnemyHealth : MonoBehaviour
 
         if (enemyHealth <= 0)
         {
-            Destroy(gameObject);
+            Die();
         }
+    }
+
+    void Die()
+    {
+        GetComponent<Animator>().SetTrigger("Die");
+        GetComponent<EnemyAI>().enabled = false;
+        GetComponent<Collider>().enabled = false;
     }
 }

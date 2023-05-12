@@ -1,4 +1,5 @@
 # Zombie-Runner
 
-![adsız2](https://github.com/agahkaramustafa/Zombie-Runner/assets/96539896/51fcfa43-4a25-4650-9c96-cb9e1367c9fe)
-![adsız1](https://github.com/agahkaramustafa/Zombie-Runner/assets/96539896/eed2a54c-c719-4c53-ab58-315856312554)
+
+![adsız2](https://github.com/agahkaramustafa/Zombie-Runner/assets/96539896/055172e9-1dda-4be1-aabe-0c21088cac07)
+![adsız1](https://github.com/agahkaramustafa/Zombie-Runner/assets/96539896/5fcf1101-056e-43a4-b72b-783e4e3e14af)
